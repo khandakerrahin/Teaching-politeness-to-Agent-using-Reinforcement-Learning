@@ -74,6 +74,10 @@ for _ in range(1000):
         episode_return += reward
         if next_state == 13:
             episode_return = 1
+        if next_state == 14:
+            episode_return = 1
+        if next_state == 15:
+            episode_return = 1
         # update the q_matrix
         next_state_possible_actions = get_possible_next_actions(next_state)
         action_values = []
