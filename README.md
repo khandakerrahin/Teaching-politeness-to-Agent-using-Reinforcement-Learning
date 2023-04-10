@@ -1,4 +1,4 @@
-# Introduction to Machine Learning for Natural Language Processing
+# Teaching politeness to an agent using Reinforcement Learning
 ### Introduction
 For the analysis part of the report, we are selecting the practical Introduction to
 Reinforcement Learning, which includes Q-learning algorithm implementation in Python.
